@@ -57,6 +57,7 @@ body {
 
 .site-nav .link {
   text-decoration: none;
+  font-family: inherit;
   font-weight: 500;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -76,6 +77,7 @@ body {
 
 .contacts-nav .link {
   text-decoration: none;
+  font-family: inherit;
   font-weight: 500;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -97,6 +99,7 @@ body {
 }
 
 .button {
+  font-family: inherit;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
@@ -138,6 +141,7 @@ body {
 }
 
 .team-nav .link {
+  font-family: inherit;
   text-decoration: none;
   text-align: center;
   font-size: 16px;
@@ -172,6 +176,7 @@ body {
 }
 
 .footer-address .link {
+  font-family: inherit;
   text-decoration: none;
   color: var(--footer-text-color);
 }
@@ -181,6 +186,7 @@ body {
 /* Button */
 
 .filter-button {
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   text-align: center;
@@ -204,6 +210,7 @@ body {
 }
 
 .project-nav .link {
+  font-family: inherit;
   text-decoration: none;
   font-size: 16px;
   line-height: 1.88;
