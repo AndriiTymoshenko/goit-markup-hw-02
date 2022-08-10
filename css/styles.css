@@ -172,7 +172,7 @@ body {
 }
 
 .ftwhite {
-  color: white;
+  color: var(--primary-white-color);
 }
 
 /* Портфоліо page customisation */
